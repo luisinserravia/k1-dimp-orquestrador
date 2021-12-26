@@ -6,9 +6,15 @@ import java.util.Map;
 
 import org.json.simple.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.google.gson.Gson;
+
+import br.com.viavarejo.orquestrador.model.BlobsList;
+import br.com.viavarejo.orquestrador.model.Itens;
 import br.com.viavarejo.orquestrador.service.OrquestradorService;
 
 /**
@@ -28,19 +34,32 @@ public class OrquestradorEndpoint {
 	}
 	
 	@GetMapping("/getTabela")
-	public JSONObject getTabela() {
-		String retorno = s.getTabela();
-		Map<String, String> mapa = new HashMap<>();
-		mapa.put("retorno", retorno);
-		return new JSONObject(mapa);
+	public String getTabela(@RequestParam(value = "idx", required = false) Integer idx) {
+		if (idx == null) {
+			idx = 0;
+		}
+		Itens item = s.getTabela(idx);
+		Gson gson = new Gson();
+		String json = gson.toJson(item);
+		return json;
+	}
+	
+	@GetMapping(path = "/getLote", produces = MediaType.APPLICATION_JSON_VALUE)
+	public Itens getLote(@RequestParam(value = "tabela", required = true) final String tabela,
+			@RequestParam(value = "indice", required = true) final int indice,
+			@RequestParam(value = "tamanhoTabela", required = true) final int tamanhoTabela) {
+		return s.getLoteTabela(tabela, indice, tamanhoTabela);
 	}
 	
 	@GetMapping("listaTabelas")
-	public List<String> listaTabelas() {
-		return s.listaTabelas();
+	public String listaTabelas() {
+		List<Itens> itens = s.listaTabelas();
+		Gson gson = new Gson();
+		String json = gson.toJson(itens);
+		return json;
 	}
 	
-	@GetMapping("/inicializaPonteiro")
+	@GetMapping(path = "/inicializaPonteiro", produces = MediaType.APPLICATION_JSON_VALUE)
 	public JSONObject inicializaPonteiro() {
 		return s.inicializaPonteiro();
 	}
@@ -48,5 +67,12 @@ public class OrquestradorEndpoint {
 	@GetMapping("/getTabelaCorrente")
 	public JSONObject getTabelaCorrente() {
 		return s.getTabelaCorrente();
+	}
+	
+	@GetMapping(path = "/getSituacaoServico", produces = MediaType.APPLICATION_JSON_VALUE)
+	public JSONObject getSituacaoServico() {
+		Map<String, String> mapa = new HashMap<>();
+		mapa.put("resposta", s.getSituacao());
+		return new JSONObject(mapa);
 	}
 }

@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  PROFILE: prd
+  DIMP_URL_ORQUESTRADOR: http://k1-dimp-orquestrador-prd.viavarejo.com.br
+kind: ConfigMap
+metadata:
+  name: k1-dimp-orquestrador

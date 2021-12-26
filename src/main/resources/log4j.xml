@@ -1,0 +1,24 @@
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration debug="true" xmlns:log4j='http://jakarta.apache.org/log4j/'>
+ 
+  <appender name="console" class="org.apache.log4j.ConsoleAppender">
+    <param name="Target" value="System.out"/>
+    <layout class="org.apache.log4j.PatternLayout">
+    <param name="ConversionPattern" value="{&quot;level&quot;:&quot;%p&quot;,&quot;timestamp&quot;:&quot;%d{ISO8601}&quot;,&quot;thread&quot;:&quot;%t&quot;,&quot;file&quot;:&quot;%F&quot;, &quot;line&quot;:&quot;%L&quot;,&quot;message&quot;:&quot;%m&quot;}%n" />
+    </layout>
+  </appender>
+ 
+  <appender name="fileAppender" class="org.apache.log4j.RollingFileAppender">
+    <param name="File" value="dimp-orquestrador.log"/>
+    <layout class="org.apache.log4j.PatternLayout">
+    <param name="ConversionPattern" value="{&quot;level&quot;:&quot;%p&quot;,&quot;timestamp&quot;:&quot;%d{ISO8601}&quot;,&quot;thread&quot;:&quot;%t&quot;,&quot;file&quot;:&quot;%F&quot;, &quot;line&quot;:&quot;%L&quot;,&quot;message&quot;:&quot;%m&quot;}%n" />
+    </layout>
+  </appender>
+ 
+  <root>
+    <priority value ="debug"></priority>
+    <appender-ref ref="console"></appender-ref>
+    <appender-ref ref="fileAppender"></appender-ref>
+  </root>
+ 
+</log4j:configuration>

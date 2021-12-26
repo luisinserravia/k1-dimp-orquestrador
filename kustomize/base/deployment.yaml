@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: k1-dimp-orquestrador
+spec:
+  replicas: 0
+  selector:
+    matchLabels:
+      app:  k1-dimp-orquestrador
+  template:
+    metadata:
+      labels:
+        app: k1-dimp-orquestrador 
+    spec:
+      containers:
+        - name: k1-dimp-orquestrador
+          image: harbor01.viavarejo.com.br/k1-dimp-orquestrador/k1-dimp-orquestrador-sit/k1-dimp-orquestrador
+          ports:
+          - containerPort: 3971

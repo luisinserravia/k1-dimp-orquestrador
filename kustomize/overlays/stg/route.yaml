@@ -1,0 +1,15 @@
+apiVersion: route.openshift.io/v1
+kind: Route
+metadata:
+  labels:
+    app: reference-blank-java-aks-spring # CHANGE THIS
+  name: reference-blank-java-aks-spring # CHANGE THIS
+spec:
+  host: reference-blank-java-aks-stg.ocp-eqx.dc.nova # CHANGE THIS
+  port:
+    targetPort: 8080-tcp # CHANGE THIS
+  to:
+    kind: Service
+    name: reference-blank-java-aks-spring # CHANGE THIS
+    weight: 100
+  wildcardPolicy: None

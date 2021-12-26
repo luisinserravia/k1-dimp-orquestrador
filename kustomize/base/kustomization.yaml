@@ -1,0 +1,14 @@
+commonLabels:
+  app: k1-dimp-orquestrador
+resources:
+- deployment.yaml
+- service.yaml
+- ingress.yaml
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+images:
+- name: harbor01.viavarejo.com.br/k1-dimp-orquestrador/k1-dimp-orquestrador-sit/k1-dimp-orquestrador
+  newName: harbor01.viavarejo.com.br/k1-dimp-orquestrador/k1-dimp-orquestrador-sit/k1-dimp-orquestrador
+  newTag: 1.0.0-4
+configMapGenerator:
+  - name: k1-dimp-orquestrador
