@@ -117,12 +117,20 @@ public class OrquestradorService {
 	
 	public Itens getTabela(Integer idx) {
 		Itens item = new Itens();
-		if (getPonteiro() < controle.size()) {
-			int ponteiro = getPonteiro();
-			String tabela = getTabelas().get(ponteiro);
-			ponteiro++;
-			setPonteiro(ponteiro);
-			item = montaItem(tabela, idx, 0);
+		boolean permanece = true;
+		while (permanece) {
+			if (getPonteiro() < getTabelas().size()) {
+				int ponteiro = getPonteiro();
+				String tabela = getTabelas().get(ponteiro);
+				ponteiro++;
+				setPonteiro(ponteiro);
+				if (getControle().contains(tabela)) {
+					item = montaItem(tabela, idx, 0);
+					permanece = false;
+				}
+			} else {
+				permanece = false;
+			}
 		}
 		return item;
 	}
