@@ -72,6 +72,7 @@ public class OrquestradorService {
 		controle.add("TbNotaFiscal");
 		controle.add("TbCliente");
 		controle.add("TbCancelamentoPagamento");
+		controle.add("TbVenda");
 		
 		List<String> retorno = new ArrayList<>();
 		credential = new StorageSharedKeyCredential(accountName, accoutKey);
