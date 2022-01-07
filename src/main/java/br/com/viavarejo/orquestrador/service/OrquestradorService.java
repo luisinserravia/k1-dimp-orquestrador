@@ -9,7 +9,13 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.time.format.DateTimeFormatterBuilder;
+import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
@@ -38,16 +44,22 @@ public class OrquestradorService {
 	
 	Logger logger = LogManager.getLogger(this.getClass());
 	
+	public String FORMATO_DATA = "dd/MM/yyyy HH:mm:ss";
+	
 	private List<String> controle;
 	private int ponteiro;
+	private int ponteiroLote;
 	private List<String> tabelas;
 	private Map<String, String> mapaTabelas;
 	private Map<String, Integer> mapaTamanhoTabelas;
+	private Map<String, String> prefixoTabelas;
 	
 	private Integer indiceLote;
 	private Integer loteOrquestrador;
 	private String situacao = "iniciando";
 	private int conta;
+	private String inicial;
+	private String finalizado;
 	
 
 	final String accountName = "stgdimphlg";
@@ -63,6 +75,7 @@ public class OrquestradorService {
 	
 	public void inicializaServico() {
 		controle = new ArrayList<>();
+		/*
 		controle.add("TbpagamentoTipo");
 		controle.add("TbMeioCaptura");
 		controle.add("TbIntermediadorServico");
@@ -71,15 +84,20 @@ public class OrquestradorService {
 		controle.add("TbSeller");
 		controle.add("TbNotaFiscal");
 		controle.add("TbCliente");
+		*/
 		controle.add("TbCancelamentoPagamento");
 		controle.add("TbVenda");
+//		controle.add("TbPagamento");
 		
-		List<String> retorno = new ArrayList<>();
+		String inicial = new SimpleDateFormat(FORMATO_DATA).format(new Date());
+		setInicial(inicial);
+		
 		credential = new StorageSharedKeyCredential(accountName, accoutKey);
 		String endpoint = String.format(Locale.ROOT, "https://%s.blob.core.windows.net", accountName);
 		storageClient = new BlobServiceClientBuilder().endpoint(endpoint).credential(credential).buildClient();
 		
 		mapaTabelas = new HashMap<String, String>();
+		prefixoTabelas = new HashMap<String, String>();
 		blobContainerClient = storageClient.getBlobContainerClient("dimp-bi-hlg");
 		setConta(0);
 		blobContainerClient.listBlobs().forEach(blobItem -> {
@@ -91,43 +109,101 @@ public class OrquestradorService {
 					logger.info("trazendo " + getConta() + " de 30...");
 					String nomeTabela = partes[1];
 					mapaTabelas.put(nomeTabela, partes[2]);
-					retorno.add(nomeTabela);
-					try {
-						FileOutputStream fobj1=new FileOutputStream(partes[2]);
-						BlockBlobClient bCliente = blobContainerClient.getBlobClient(nomeBlob).getBlockBlobClient();
-						int dataSize = (int) bCliente.getProperties().getBlobSize();
-						ByteArrayOutputStream outputStream = new ByteArrayOutputStream(dataSize);
-						bCliente.download(outputStream);
-						outputStream.writeTo(fobj1);
-						outputStream.flush();
-						outputStream.close();
-					} catch (FileNotFoundException e) {
-						e.printStackTrace();
-					} catch (IOException e) {
-						e.printStackTrace();
-					}
+					prefixoTabelas.put(nomeTabela, partes[0]);
+//					try {
+//						FileOutputStream fobj1=new FileOutputStream(partes[2]);
+//						BlockBlobClient bCliente = blobContainerClient.getBlobClient(nomeBlob).getBlockBlobClient();
+//						int dataSize = (int) bCliente.getProperties().getBlobSize();
+//						ByteArrayOutputStream outputStream = new ByteArrayOutputStream(dataSize);
+//						bCliente.download(outputStream);
+//						outputStream.writeTo(fobj1);
+//						outputStream.flush();
+//						outputStream.close();
+//					} catch (FileNotFoundException e) {
+//						e.printStackTrace();
+//					} catch (IOException e) {
+//						e.printStackTrace();
+//					}
 				}
 			});
 		
-		tabelas = retorno;
-		setSituacao("pronto");
+		tabelas = new ArrayList<>();
+		for (Map.Entry<String, String> m : mapaTabelas.entrySet()) {
+			tabelas.add(m.getKey());
+		}
+		for (String t: tabelas) {
+			if (getControle().contains(t)) {
+				String pfx = getPrefixoTabelas().get(t);
+				String sfx = getMapaTabelas().get(t);
+				String nomeBlob = pfx + "/" + t + "/" + sfx;
+				try {
+					FileOutputStream fobj1=new FileOutputStream(sfx);
+					BlockBlobClient bCliente = blobContainerClient.getBlobClient(nomeBlob).getBlockBlobClient();
+					int dataSize = (int) bCliente.getProperties().getBlobSize();
+					ByteArrayOutputStream outputStream = new ByteArrayOutputStream(dataSize);
+					bCliente.download(outputStream);
+					outputStream.writeTo(fobj1);
+					outputStream.flush();
+					outputStream.close();
+				} catch (FileNotFoundException e) {
+//					e.printStackTrace();
+					logger.info("Saltando " + sfx);
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+//		tabelas = retorno;
 		setPonteiro(0);
+		setPonteiroLote(0);
 		setLoteOrquestrador(Integer.parseInt(System.getenv("DIMP_LOTE_ORQUESTRADOR"), 10));
 		mapaTamanhoTabelas = new HashMap<>();
+		calculaTamanhoTabelas();
 	}
 	
-	public Itens getTabela(Integer idx) {
+	public void calculaTamanhoTabelas() {
+		int conta = 0;
+		for (String tabela: getTabelas()) {
+			conta++;
+			logger.info("Calculando tamanho " + tabela + " (" + conta + " de " + getTabelas().size() +")");
+			int tamanhoTabela = getTamanhoTabela(tabela);
+			mapaTamanhoTabelas.put(tabela, tamanhoTabela);
+		}
+		logger.info("pronto");
+		setSituacao("pronto");
+		String finalizado = new SimpleDateFormat(FORMATO_DATA).format(new Date());
+		setFinalizado(finalizado);
+		JSONObject jsonTempo = exibeTempoLote(inicial, finalizado);
+		String msg = "Finalizado preparo do orquestrador em " + jsonTempo.get("minutos").toString() + ":" + jsonTempo.get("segundos").toString() + " minutos";
+		logger.info(msg);
+	}
+	
+	public Itens getTabela() {
 		Itens item = new Itens();
 		boolean permanece = true;
 		while (permanece) {
 			if (getPonteiro() < getTabelas().size()) {
 				int ponteiro = getPonteiro();
 				String tabela = getTabelas().get(ponteiro);
-				ponteiro++;
-				setPonteiro(ponteiro);
+				JSONObject infoTabela = getInfoTabela(tabela);
+//				ponteiro++;
+//				setPonteiro(ponteiro);
 				if (getControle().contains(tabela)) {
-					item = montaItem(tabela, idx, 0);
-					permanece = false;
+					int nLotes = (int) infoTabela.get("nLotes");
+					int qLote = getPonteiroLote() + 1;
+					if (qLote > nLotes) {
+						ponteiro++;
+						setPonteiro(ponteiro);
+						setPonteiroLote(0);
+					} else {
+						item = montaItem(tabela);
+						setPonteiroLote(getPonteiroLote() + 1);
+						permanece = false;
+					}
+				} else {
+					ponteiro++;
+					setPonteiro(ponteiro);
+					setPonteiroLote(0);
 				}
 			} else {
 				permanece = false;
@@ -136,11 +212,13 @@ public class OrquestradorService {
 		return item;
 	}
 	
-	public Itens montaItem(String tabela, int idx, int tamanhoTabela) {
+	public Itens montaItem(String tabela) {
 		Itens item = new Itens();
 		item.setNome(tabela);
 		item.setArquivo(mapaTabelas.get(tabela));
 		int salta = 0;
+		int idx = getPonteiroLote();
+		int tamanhoTabela = (int) getInfoTabela(tabela).get("tamanho");
 		try (BufferedReader reader = Files.newBufferedReader(
 				Paths.get(mapaTabelas.get(tabela)), StandardCharsets.ISO_8859_1)) {
 			if (idx == 0) {
@@ -187,7 +265,7 @@ public class OrquestradorService {
 	
 	public Itens getLoteTabela(String tabela, int idx, int tamanhoTabela) {
 		Itens item = new Itens();
-		item = montaItem(tabela, idx, tamanhoTabela);
+		item = montaItem(tabela);
 		return item;
 	}
 	
@@ -227,6 +305,7 @@ public class OrquestradorService {
 	}
 	
 	private int getTamanhoTabela(String tabela) {
+		int zero = 0;
 		if (getMapaTamanhoTabelas().containsKey(tabela)) {
 			return mapaTamanhoTabelas.get(tabela);
 		} else {
@@ -235,14 +314,48 @@ public class OrquestradorService {
 					Paths.get(mapaTabelas.get(tabela)), StandardCharsets.ISO_8859_1)) {
 				while (reader.readLine() != null) {
 					conta++;
-					mapaTamanhoTabelas.put(tabela, conta);
+//					mapaTamanhoTabelas.put(tabela, conta);
 				}
 				return conta;
 			} catch (Exception e) {
-				e.printStackTrace();
+//				e.printStackTrace();
+				return zero;
 			}
 		}
-		return mapaTamanhoTabelas.get(tabela);
+//		return mapaTamanhoTabelas.get(tabela);
+	}
+	
+	public JSONObject getInfoTabela(String tabela) {
+		Map<String, Integer> mapaTabela = new HashMap<>();
+		if (!getSituacao().equalsIgnoreCase("pronto") || !getMapaTamanhoTabelas().containsKey(tabela)) {
+			mapaTabela.put("tamanho", 0);
+			mapaTabela.put("lote", 0);
+			mapaTabela.put("nLotes", 0);
+		} else {
+			int tam = getTamanhoTabela(tabela);
+			int tamLote = getLoteOrquestrador();
+			int nLotes = tam / tamLote;
+			if (tam % tamLote > 0) {
+				nLotes++;
+			}
+			mapaTabela.put("tamanho", tam);
+			mapaTabela.put("lote", tamLote);
+			mapaTabela.put("nLotes", nLotes);
+		}
+		return new JSONObject(mapaTabela);
+	}
+	
+	public JSONObject exibeTempoLote(String inicial, String finalizado) {
+		LocalDateTime t1 = LocalDateTime.parse(inicial, new DateTimeFormatterBuilder().parseCaseInsensitive().append(DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss")).toFormatter());
+		LocalDateTime t2 = LocalDateTime.parse(finalizado, new DateTimeFormatterBuilder().parseCaseInsensitive().append(DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss")).toFormatter());
+		long minutos = t1.until( t2, ChronoUnit.MINUTES);
+		long segundos = t1.until( t2, ChronoUnit.SECONDS);
+		segundos = segundos % 60;
+		logger.info("Registros tratados de "+inicial+" até "+finalizado+", rodou em "+minutos+":"+segundos+" minutos");
+		Map<String, Long> mapa = new HashMap<String, Long>();
+		mapa.put("minutos", minutos);
+		mapa.put("segundos", segundos);
+		return new JSONObject(mapa);
 	}
 
 	public List<String> getControle() {
@@ -345,6 +458,62 @@ public class OrquestradorService {
 	 */
 	public void setMapaTamanhoTabelas(Map<String, Integer> mapaTamanhoTabelas) {
 		this.mapaTamanhoTabelas = mapaTamanhoTabelas;
+	}
+
+	/**
+	 * @return the ponteiroLote
+	 */
+	public int getPonteiroLote() {
+		return ponteiroLote;
+	}
+
+	/**
+	 * @param ponteiroLote the ponteiroLote to set
+	 */
+	public void setPonteiroLote(int ponteiroLote) {
+		this.ponteiroLote = ponteiroLote;
+	}
+
+	/**
+	 * @return the inicial
+	 */
+	public String getInicial() {
+		return inicial;
+	}
+
+	/**
+	 * @param inicial the inicial to set
+	 */
+	public void setInicial(String inicial) {
+		this.inicial = inicial;
+	}
+
+	/**
+	 * @return the finalizado
+	 */
+	public String getFinalizado() {
+		return finalizado;
+	}
+
+	/**
+	 * @param finalizado the finalizado to set
+	 */
+	public void setFinalizado(String finalizado) {
+		this.finalizado = finalizado;
+	}
+
+	/**
+	 * @return the prefixoTabelas
+	 */
+	public Map<String, String> getPrefixoTabelas() {
+		return prefixoTabelas;
+	}
+
+	/**
+	 * @param prefixoTabelas the prefixoTabelas to set
+	 */
+	public void setPrefixoTabelas(Map<String, String> prefixoTabelas) {
+		this.prefixoTabelas = prefixoTabelas;
 	}
 
 	

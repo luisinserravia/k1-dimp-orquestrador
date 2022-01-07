@@ -124,3 +124,737 @@
 {"level":"INFO","timestamp":"2021-12-30 16:35:22,107","thread":"main","file":"OrquestradorService.java", "line":"93","message":"trazendo 26 de 30..."}
 {"level":"INFO","timestamp":"2021-12-30 16:35:22,726","thread":"main","file":"OrquestradorService.java", "line":"93","message":"trazendo 28 de 30..."}
 {"level":"INFO","timestamp":"2021-12-30 16:35:27,172","thread":"main","file":"OrquestradorService.java", "line":"93","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:03:47,038","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:16,091","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:16,470","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:41,458","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:42,910","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:53,757","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:53,823","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:53,930","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:04:54,023","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:05:01,705","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:05:21,232","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:05:34,281","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:05:34,659","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-03 15:05:40,450","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:00:28,486","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:04,630","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:04,852","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:28,288","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:30,420","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:43,115","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:43,228","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:43,349","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:43,467","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:01:50,962","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:02:03,840","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:02:15,917","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:02:16,397","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 10:02:22,552","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:21:20,484","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:21:52,412","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:21:53,056","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:10,196","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:11,771","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:21,492","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:21,550","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:21,633","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:21,735","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:28,727","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:42,053","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:52,061","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:22:52,917","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:23:00,042","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 11:59:43,786","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:10,728","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:10,992","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:33,051","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:34,736","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:47,346","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:47,539","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:47,591","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:47,698","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:00:54,631","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:01:11,487","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:01:22,672","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:01:23,532","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 12:01:29,182","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:46:12,694","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:46:42,237","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:46:42,523","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:01,925","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:04,127","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:16,398","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:16,460","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:16,519","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:16,591","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:26,234","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:39,765","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:50,351","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:51,038","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 13:47:57,180","thread":"main","file":"OrquestradorService.java", "line":"94","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:10:18,541","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:10:51,749","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:10:52,431","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:13,240","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:14,815","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:27,668","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:27,722","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:27,786","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:27,855","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:36,175","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:47,533","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:59,179","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:11:59,685","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-04 17:12:05,787","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:17:15,601","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:17:50,597","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:17:50,932","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:11,015","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:14,108","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:24,891","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:24,949","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:25,035","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:25,119","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:31,833","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:42,625","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:52,975","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:53,407","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:18:58,829","thread":"main","file":"OrquestradorService.java", "line":"98","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:21:35,154","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:06,517","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:07,140","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:27,315","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:29,800","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:41,637","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:41,702","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:41,764","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:41,849","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:22:48,868","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:23:02,026","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:23:14,628","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:23:15,259","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-05 11:23:21,627","thread":"main","file":"OrquestradorService.java", "line":"96","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:17:58,014","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:24,651","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:24,948","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:44,904","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:46,765","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:57,150","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:57,205","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:57,274","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:18:57,375","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:19:04,317","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:19:14,710","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:19:24,532","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:19:25,029","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:19:30,394","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:19:30,446","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:02,726","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:02,972","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:24,136","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:25,910","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:35,125","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:35,185","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:35,259","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:35,350","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:40,746","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:49,519","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:58,916","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:20:59,297","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:21:03,824","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:21:03,916","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamento (1 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:07,108","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamentoPagamento (2 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:07,139","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbChargeBack (3 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:09,131","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCliente (4 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:09,348","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbEndereco (5 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:10,271","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbIntermediadorServico (6 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:10,283","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMeioCaptura (7 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:10,295","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMunicipioIBGE (8 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:10,307","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbNotaFiscal (9 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:10,770","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPagamento (10 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:11,481","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPessoa (11 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,230","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbSeller (12 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,301","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbVenda (13 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,765","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbpagamentoTipo (14 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,775","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamento (15 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,775","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamentoPagamento (16 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbChargeBack (17 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCliente (18 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbEndereco (19 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbIntermediadorServico (20 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMeioCaptura (21 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMunicipioIBGE (22 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbNotaFiscal (23 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPagamento (24 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPessoa (25 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,776","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbSeller (26 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,777","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbVenda (27 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,777","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbpagamentoTipo (28 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,777","thread":"main","file":"OrquestradorService.java", "line":"143","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,780","thread":"main","file":"OrquestradorService.java", "line":"287","message":"Registros tratados de 06/01/2022 11:17:53 até 06/01/2022 11:21:12, rodou em 3:19 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 11:21:12,780","thread":"main","file":"OrquestradorService.java", "line":"149","message":"Finalizado preparo do orquestrador em 3:19 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 11:41:42,363","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:12,130","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:12,379","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:28,379","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:30,293","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:43,276","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:43,328","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:43,388","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:43,467","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:42:49,650","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:01,884","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:11,474","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:11,836","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:17,577","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:17,628","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:43,557","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:43:43,815","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:02,585","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:04,094","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:12,572","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:12,619","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:12,690","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:12,764","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:18,248","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:28,532","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:37,240","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:37,568","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:41,155","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:44:41,207","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamento (1 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:43,491","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamentoPagamento (2 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:43,511","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbChargeBack (3 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:44,830","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCliente (4 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:44,954","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbEndereco (5 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:45,616","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbIntermediadorServico (6 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:45,617","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMeioCaptura (7 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:45,618","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMunicipioIBGE (8 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:45,628","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbNotaFiscal (9 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:46,063","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPagamento (10 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:46,752","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPessoa (11 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,378","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbSeller (12 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,416","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbVenda (13 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,751","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbpagamentoTipo (14 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,753","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamento (15 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,753","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamentoPagamento (16 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,753","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbChargeBack (17 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,753","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCliente (18 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbEndereco (19 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbIntermediadorServico (20 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMeioCaptura (21 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMunicipioIBGE (22 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbNotaFiscal (23 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPagamento (24 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPessoa (25 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbSeller (26 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbVenda (27 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbpagamentoTipo (28 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,754","thread":"main","file":"OrquestradorService.java", "line":"143","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,757","thread":"main","file":"OrquestradorService.java", "line":"307","message":"Registros tratados de 06/01/2022 11:41:40 até 06/01/2022 11:44:47, rodou em 3:7 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 11:44:47,757","thread":"main","file":"OrquestradorService.java", "line":"149","message":"Finalizado preparo do orquestrador em 3:7 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 11:48:03,639","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:48:38,234","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:48:38,524","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:48:56,734","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:48:59,808","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:14,225","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:14,283","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:14,335","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:14,396","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:20,202","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:37,417","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:53,029","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:53,888","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:59,019","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:49:59,073","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:27,413","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:27,660","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:45,394","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:46,708","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:55,441","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:55,492","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:55,557","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:50:55,641","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:51:01,460","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:51:13,228","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:51:21,954","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:51:22,333","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:51:26,784","thread":"main","file":"OrquestradorService.java", "line":"106","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 11:51:26,851","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamento (1 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:29,061","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamentoPagamento (2 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:29,078","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbChargeBack (3 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:30,671","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCliente (4 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:30,811","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbEndereco (5 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:31,460","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbIntermediadorServico (6 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:31,461","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMeioCaptura (7 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:31,463","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMunicipioIBGE (8 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:31,473","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbNotaFiscal (9 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:31,865","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPagamento (10 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:32,528","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPessoa (11 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,173","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbSeller (12 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,215","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbVenda (13 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,540","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbpagamentoTipo (14 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamento (15 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCancelamentoPagamento (16 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbChargeBack (17 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbCliente (18 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbEndereco (19 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbIntermediadorServico (20 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMeioCaptura (21 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbMunicipioIBGE (22 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbNotaFiscal (23 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPagamento (24 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,542","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbPessoa (25 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,543","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbSeller (26 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,543","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbVenda (27 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,543","thread":"main","file":"OrquestradorService.java", "line":"139","message":"Calculando tamanho TbpagamentoTipo (28 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,543","thread":"main","file":"OrquestradorService.java", "line":"143","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,545","thread":"main","file":"OrquestradorService.java", "line":"307","message":"Registros tratados de 06/01/2022 11:48:01 até 06/01/2022 11:51:33, rodou em 3:32 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 11:51:33,545","thread":"main","file":"OrquestradorService.java", "line":"149","message":"Finalizado preparo do orquestrador em 3:32 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 19:01:33,925","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:02:10,071","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:02:10,342","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:04:05,401","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:04:49,868","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:04:50,362","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:26,463","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:28,295","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:42,639","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:42,689","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:42,745","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:42,812","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:05:51,701","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:06:07,129","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:06:19,730","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:06:20,423","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:06:27,592","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:06:27,638","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:04,306","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:04,499","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:30,081","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:31,874","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:42,584","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:42,769","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:42,873","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:42,953","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:07:51,861","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:08:05,048","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:08:18,936","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:08:19,716","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:08:25,515","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 19:08:25,605","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamento (1 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:28,596","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamentoPagamento (2 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:28,634","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbChargeBack (3 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:30,277","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCliente (4 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:30,431","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbEndereco (5 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:31,193","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbIntermediadorServico (6 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:31,202","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMeioCaptura (7 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:31,211","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMunicipioIBGE (8 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:31,222","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbNotaFiscal (9 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:31,624","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPagamento (10 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:32,262","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPessoa (11 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:32,892","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbSeller (12 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:32,931","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbVenda (13 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,242","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbpagamentoTipo (14 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,250","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamento (15 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamentoPagamento (16 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbChargeBack (17 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCliente (18 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbEndereco (19 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbIntermediadorServico (20 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMeioCaptura (21 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMunicipioIBGE (22 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbNotaFiscal (23 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPagamento (24 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,251","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPessoa (25 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,252","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbSeller (26 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,252","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbVenda (27 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,252","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbpagamentoTipo (28 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,252","thread":"main","file":"OrquestradorService.java", "line":"145","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,254","thread":"main","file":"OrquestradorService.java", "line":"321","message":"Registros tratados de 06/01/2022 19:04:03 até 06/01/2022 19:08:33, rodou em 4:30 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 19:08:33,254","thread":"main","file":"OrquestradorService.java", "line":"151","message":"Finalizado preparo do orquestrador em 4:30 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 23:46:11,519","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:46:45,606","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:46:45,892","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:03,625","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:05,375","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:13,924","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:13,976","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:14,030","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:14,099","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:20,111","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:33,073","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:42,686","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:43,162","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:48,503","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:47:48,550","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:48:22,381","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:48:22,649","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:48:49,079","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:48:50,715","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:04,298","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:04,349","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:04,411","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:04,518","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:10,662","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:24,145","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:39,539","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:40,044","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:46,973","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-06 23:49:47,038","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamento (1 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:49,246","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamentoPagamento (2 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:49,266","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbChargeBack (3 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:50,678","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCliente (4 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:50,818","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbEndereco (5 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:51,559","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbIntermediadorServico (6 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:51,570","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMeioCaptura (7 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:51,580","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMunicipioIBGE (8 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:51,593","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbNotaFiscal (9 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:52,055","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPagamento (10 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:52,753","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPessoa (11 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,409","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbSeller (12 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,450","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbVenda (13 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,793","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbpagamentoTipo (14 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamento (15 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamentoPagamento (16 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbChargeBack (17 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCliente (18 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbEndereco (19 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbIntermediadorServico (20 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMeioCaptura (21 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,802","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMunicipioIBGE (22 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbNotaFiscal (23 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPagamento (24 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPessoa (25 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbSeller (26 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbVenda (27 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbpagamentoTipo (28 de 28)"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,803","thread":"main","file":"OrquestradorService.java", "line":"145","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,806","thread":"main","file":"OrquestradorService.java", "line":"321","message":"Registros tratados de 06/01/2022 23:46:08 até 06/01/2022 23:49:53, rodou em 3:45 minutos"}
+{"level":"INFO","timestamp":"2022-01-06 23:49:53,806","thread":"main","file":"OrquestradorService.java", "line":"151","message":"Finalizado preparo do orquestrador em 3:45 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 00:14:27,415","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:14:55,815","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:14:56,077","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:22,215","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:24,326","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:36,895","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:36,958","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:37,016","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:37,096","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:15:43,236","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:05,468","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:20,792","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:21,196","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:25,755","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:25,806","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:54,712","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:16:54,935","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:14,481","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:15,852","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:24,970","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:25,026","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:25,075","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:25,153","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:32,017","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:42,000","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:51,696","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:52,126","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:59,196","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 00:17:59,266","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamento (1 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:01,634","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamentoPagamento (2 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:01,655","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbChargeBack (3 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:03,079","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCliente (4 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:03,216","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbEndereco (5 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:04,083","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbIntermediadorServico (6 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:04,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMeioCaptura (7 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:04,089","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMunicipioIBGE (8 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:04,106","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbNotaFiscal (9 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:04,672","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPagamento (10 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:05,497","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPessoa (11 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:06,392","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbSeller (12 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:06,479","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbVenda (13 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,081","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbpagamentoTipo (14 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,084","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamento (15 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,085","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCancelamentoPagamento (16 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,085","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbChargeBack (17 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,085","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbCliente (18 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,085","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbEndereco (19 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,085","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbIntermediadorServico (20 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,085","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMeioCaptura (21 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbMunicipioIBGE (22 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbNotaFiscal (23 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPagamento (24 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbPessoa (25 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbSeller (26 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,086","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbVenda (27 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,087","thread":"main","file":"OrquestradorService.java", "line":"141","message":"Calculando tamanho TbpagamentoTipo (28 de 28)"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,087","thread":"main","file":"OrquestradorService.java", "line":"145","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,090","thread":"main","file":"OrquestradorService.java", "line":"325","message":"Registros tratados de 07/01/2022 00:14:22 até 07/01/2022 00:18:07, rodou em 3:45 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 00:18:07,091","thread":"main","file":"OrquestradorService.java", "line":"151","message":"Finalizado preparo do orquestrador em 3:45 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 10:18:22,378","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:18:47,595","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:18:47,768","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:07,367","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:09,026","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:18,440","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:18,495","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:18,554","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:18,626","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:24,140","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:34,134","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:42,701","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:43,060","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:47,158","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:19:47,216","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:14,957","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:15,270","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:32,855","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:34,231","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:43,606","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:43,662","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:43,721","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:43,829","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:48,976","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:20:57,397","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:21:05,834","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:21:06,246","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:21:09,640","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:22:45,441","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:21,866","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:22,161","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:42,340","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:44,131","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:55,205","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:55,259","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:55,314","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:23:55,410","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:01,758","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:12,975","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:22,271","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:22,658","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:27,753","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:27,820","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:58,355","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:24:58,639","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:18,140","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:20,041","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:28,859","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:28,922","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:28,989","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:29,157","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:35,533","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:44,173","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:54,453","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:55,006","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:25:58,766","thread":"main","file":"OrquestradorService.java", "line":"108","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 10:28:53,778","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbNotaFiscal (1 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:54,246","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbEndereco (2 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:54,826","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbSeller (3 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:54,867","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbCliente (4 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:54,979","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbMeioCaptura (5 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:54,992","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbPagamento (6 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:55,557","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbMunicipioIBGE (7 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:55,579","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbChargeBack (8 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:56,648","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbCancelamentoPagamento (9 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:56,668","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbpagamentoTipo (10 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:56,679","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbIntermediadorServico (11 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:56,691","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbPessoa (12 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:57,206","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbCancelamento (13 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:58,794","thread":"main","file":"OrquestradorService.java", "line":"145","message":"Calculando tamanho TbVenda (14 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:59,059","thread":"main","file":"OrquestradorService.java", "line":"149","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:59,061","thread":"main","file":"OrquestradorService.java", "line":"329","message":"Registros tratados de 07/01/2022 10:22:43 até 07/01/2022 10:28:59, rodou em 6:16 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 10:28:59,062","thread":"main","file":"OrquestradorService.java", "line":"155","message":"Finalizado preparo do orquestrador em 6:16 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,005","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,007","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,007","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,007","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,008","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,008","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,008","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,008","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,008","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,008","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,009","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,009","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,009","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,009","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,009","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,009","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,010","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,010","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,010","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:27:10,011","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,622","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,623","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,624","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,625","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,625","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,625","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,625","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,625","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,625","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:29:37,626","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:32:26,766","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbNotaFiscal (1 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,512","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,514","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,514","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,514","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,514","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,514","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,514","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,515","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,516","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,517","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,517","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,517","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,517","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:38:54,518","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:39:12,682","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbNotaFiscal (1 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:39:38,947","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbEndereco (2 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:39:56,657","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbSeller (3 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,932","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbCliente (4 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,940","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbMeioCaptura (5 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,945","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbPagamento (6 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,949","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbMunicipioIBGE (7 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,952","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbChargeBack (8 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,955","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbCancelamentoPagamento (9 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,957","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbpagamentoTipo (10 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,959","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbIntermediadorServico (11 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,961","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbPessoa (12 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,964","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbCancelamento (13 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:03,966","thread":"main","file":"OrquestradorService.java", "line":"167","message":"Calculando tamanho TbVenda (14 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:18,297","thread":"main","file":"OrquestradorService.java", "line":"171","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:18,302","thread":"main","file":"OrquestradorService.java", "line":"353","message":"Registros tratados de 07/01/2022 11:38:50 até 07/01/2022 11:40:18, rodou em 1:28 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 11:40:18,303","thread":"main","file":"OrquestradorService.java", "line":"177","message":"Finalizado preparo do orquestrador em 1:28 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,216","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,219","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,219","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,220","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,221","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,221","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,221","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,221","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,221","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,222","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,222","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,222","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,222","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,222","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:02,223","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,711","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbNotaFiscal (1 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,712","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbEndereco (2 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,713","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbSeller (3 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,714","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbCliente (4 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,714","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbMeioCaptura (5 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,715","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbPagamento (6 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,716","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbMunicipioIBGE (7 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,716","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbChargeBack (8 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,717","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbCancelamentoPagamento (9 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,742","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbpagamentoTipo (10 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,742","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbIntermediadorServico (11 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,743","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbPessoa (12 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,743","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbCancelamento (13 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:07,744","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbVenda (14 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:08,107","thread":"main","file":"OrquestradorService.java", "line":"172","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:08,109","thread":"main","file":"OrquestradorService.java", "line":"354","message":"Registros tratados de 07/01/2022 11:46:56 até 07/01/2022 11:47:08, rodou em 0:12 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 11:47:08,109","thread":"main","file":"OrquestradorService.java", "line":"178","message":"Finalizado preparo do orquestrador em 0:12 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,662","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 4 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,663","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 6 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,664","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 8 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,664","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 10 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,664","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 12 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,664","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 14 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,664","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 16 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,664","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 18 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 20 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 22 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 24 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 26 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 28 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 30 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,665","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 34 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,666","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 36 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,666","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 38 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,666","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 40 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 42 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 44 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 46 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 48 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 50 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 52 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,667","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 54 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,668","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 56 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,668","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 58 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:40,668","thread":"main","file":"OrquestradorService.java", "line":"109","message":"trazendo 60 de 30..."}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,643","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbNotaFiscal (1 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,643","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbEndereco (2 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,644","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbSeller (3 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,644","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbCliente (4 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,644","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbMeioCaptura (5 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,644","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbPagamento (6 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,644","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbMunicipioIBGE (7 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,644","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbChargeBack (8 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,645","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbCancelamentoPagamento (9 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,669","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbpagamentoTipo (10 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,670","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbIntermediadorServico (11 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,670","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbPessoa (12 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,670","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbCancelamento (13 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,670","thread":"main","file":"OrquestradorService.java", "line":"168","message":"Calculando tamanho TbVenda (14 de 14)"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,984","thread":"main","file":"OrquestradorService.java", "line":"172","message":"pronto"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,986","thread":"main","file":"OrquestradorService.java", "line":"354","message":"Registros tratados de 07/01/2022 11:49:39 até 07/01/2022 11:49:44, rodou em 0:5 minutos"}
+{"level":"INFO","timestamp":"2022-01-07 11:49:44,986","thread":"main","file":"OrquestradorService.java", "line":"178","message":"Finalizado preparo do orquestrador em 0:5 minutos"}

@@ -34,11 +34,8 @@ public class OrquestradorEndpoint {
 	}
 	
 	@GetMapping("/getTabela")
-	public String getTabela(@RequestParam(value = "idx", required = false) Integer idx) {
-		if (idx == null) {
-			idx = 0;
-		}
-		Itens item = s.getTabela(idx);
+	public String getTabela() {
+		Itens item = s.getTabela();
 		Gson gson = new Gson();
 		String json = gson.toJson(item);
 		return json;
@@ -74,5 +71,10 @@ public class OrquestradorEndpoint {
 		Map<String, String> mapa = new HashMap<>();
 		mapa.put("resposta", s.getSituacao());
 		return new JSONObject(mapa);
+	}
+	
+	@GetMapping(path = "/getInfoTabela", produces = MediaType.APPLICATION_JSON_VALUE)
+	public JSONObject getInfoTabela(@RequestParam(value = "tabela", required = true) final String tabela) {
+		return s.getInfoTabela(tabela);
 	}
 }
