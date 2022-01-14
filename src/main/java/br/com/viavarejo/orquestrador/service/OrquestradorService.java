@@ -15,6 +15,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeFormatterBuilder;
 import java.time.temporal.ChronoUnit;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
@@ -74,7 +75,8 @@ public class OrquestradorService {
 	}
 	
 	public void inicializaServico() {
-		controle = new ArrayList<>();
+		String[] tabs = System.getenv("DIMP_TABELAS").split(",");
+		controle = Arrays.asList(tabs);
 		/*
 		controle.add("TbpagamentoTipo");
 		controle.add("TbMeioCaptura");
@@ -84,10 +86,10 @@ public class OrquestradorService {
 		controle.add("TbSeller");
 		controle.add("TbNotaFiscal");
 		controle.add("TbCliente");
-		*/
 		controle.add("TbCancelamentoPagamento");
 		controle.add("TbVenda");
-//		controle.add("TbPagamento");
+		controle.add("TbPagamento");
+		 */
 		
 		String inicial = new SimpleDateFormat(FORMATO_DATA).format(new Date());
 		setInicial(inicial);
